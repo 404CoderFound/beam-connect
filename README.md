@@ -89,4 +89,3 @@ python/python3 client.py
 
 * [404CoderFound](https://github.com/404CoderFound)
 * [Merwin](https://github.com/merwin-asm)
-* []()
