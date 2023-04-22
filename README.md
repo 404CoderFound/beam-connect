@@ -83,7 +83,7 @@ python/python3 client.py
 ## Authors
 
 * **Tom Simpsons** - *Self Employeed* - [Tom Simpsons](https://github.com/404CoderFound) - *Beam Connect*
-* **Merwin** - *Indian coder* - [Merwin](https://github.com/merwin-asm) - *Beam Connect*
+* **Merwin Jacob** - *Self Employeed* - [Merwin](https://github.com/merwin-asm) - *Beam Connect*
 
 ## Acknowledgements
 
