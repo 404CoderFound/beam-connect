@@ -60,7 +60,7 @@ How to use this program.
 1. Clone the repo
 
 ```sh
-https://github.com/404CoderFound/beam-connect.git
+git clone https://github.com/404CoderFound/beam-connect.git
 ```
 2. Run the build.py 
 ```sh
