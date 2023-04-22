@@ -70,7 +70,7 @@ python/python3 build.py
 ## Usage
 
 chmod 777 *
-chmod 777 template/*
+chmod 777 templates/*
 python/python3 server.py
 python/python3 client.py
 
