@@ -14,7 +14,7 @@
     <br/>
     <br/>
     <a href="https://github.com/404CoderFound/Beam-Connect/issues">Report Bug</a>
-    .
+    -
     <a href="https://github.com/404CoderFound/Beam-Connect/issues">Request Feature</a>
   </p>
 </p>
@@ -49,11 +49,11 @@ We believe that our project will help users save time and effort when editing fi
 
 ## Built With
 
-Python and html...
+Python and html
 
 ## Getting Started
 
-How to use this program.
+**How to use this program?**
 
 ### Installation
 

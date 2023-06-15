@@ -1,8 +1,6 @@
 from flask import Flask, render_template, request, redirect
-import os
 
 app = Flask(__name__)
-
 
 @app.route('/edit')
 def edit():
@@ -15,7 +13,6 @@ def edit():
 
   return render_template('edit.html', filename=filename, content=content)
 
-
 @app.route('/save', methods=['POST'])
 def save():
   filename = request.form['filename']
@@ -25,7 +22,6 @@ def save():
     f.write(content)
 
   return redirect('/edit?filename=' + filename + '&success=true')
-
 
 if __name__ == '__main__':
   app.run(debug=False, host='0.0.0.0', port='666')
